@@ -28,13 +28,13 @@ and some **hosts** to the table **hosts_popularity** -used to calculate the popu
 
 * Add links and hosts
     * Example
-![Add links and hosts](https://github.com/SofyanMahmoud0000/Buffer/blob/master/Addlinks.png)
+![Add links and hosts](https://github.com/SofyanMahmoud0000/Jindexer/blob/master/Addlinks.png)
 
 * Run the file of <ins>InsertIndexer.java</ins>
 * Run the file of <ins>Indexer</ins>
 
 ## Database diagram
-![Database diagram](https://github.com/sofyanmahmoud0000/Buffer/blob/master/DataBaseDiagram.png) 
+![Database diagram](https://github.com/sofyanmahmoud0000/Jindexer/blob/master/DataBaseDiagram.png) 
 
 ## Built With
 
