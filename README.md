@@ -52,5 +52,5 @@ MIT
 
 ## Authors
 
-**Sofyan Mahmoud** - computer engineer
+[Sofyan Mahmoud](https://github.com/sofyanmahmoud0000) - computer engineer
 
