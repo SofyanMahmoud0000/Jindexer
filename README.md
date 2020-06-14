@@ -47,9 +47,6 @@ and some **hosts** to the table **hosts_popularity** -used to calculate the popu
 If you have any questions on how to use this indexer, or have ideas for future development, please send me an e-mail to ***sofyan1020@gmail.com***.
 
 
-## Licence 
-MIT
-
 ## Authors
 
 [Sofyan Mahmoud](https://github.com/sofyanmahmoud0000) - computer engineer
