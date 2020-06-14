@@ -41,6 +41,7 @@ and some **hosts** to the table **hosts_popularity** -used to calculate the popu
 * [Java](https://www.geeksforgeeks.org/java/) - The language used
 * [Jsoup](https://github.com/jhy/jsoup) - The library of Java html parser 
 * [Jstemmer](https://github.com/sofyanmahmoud0000/Jstemmer) - The stemmer used to stem the strings 
+* [MySql](https://www.mysql.com/) - database management system
 
 ## Development and support
 
